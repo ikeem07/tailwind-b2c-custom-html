@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.buttons #cancel:before {
+    content: url(https://myintealthiddev.b2clogin.com/static/tenant/templates/images/left-arrow.svg);
+}
