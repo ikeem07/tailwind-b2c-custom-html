@@ -79,7 +79,7 @@
     <ContentDefinitions>
       <ContentDefinition Id="api.unifiedssp.localaccountsignin">
         <LoadUri>
-          https://nutritional-smooth-collected-remains.trycloudflare.com/html/unifiedssp-localaccountsignin.html</LoadUri>
+          https://wiring-circus-frequencies-delight.trycloudflare.com/html/unifiedssp-localaccountsignin.html</LoadUri>
         <RecoveryUri>~/common/default_page_error.html</RecoveryUri>
         <DataUri>urn:com:microsoft:aad:b2c:elements:contract:unifiedssp:2.1.9</DataUri>
         <Metadata>
