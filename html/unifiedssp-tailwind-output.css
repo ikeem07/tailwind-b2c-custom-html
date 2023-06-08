@@ -1409,18 +1409,6 @@ input[type=email],input[type=password],input[type=text]{
   font-weight: 700;
 }
 
-/* @media only screen and (min-width: 0px) {
-    .container .row .panel-default {
-        padding: 0px 30px;
-    }
-}
-
-@media only screen and (min-width: 600px) {
-    .container .row .panel-default {
-        padding: 40px 30px;
-    }
-} */
-
 @media (min-width: 640px) {
   .sm\:py-\[40px\] {
     padding-top: 40px;
