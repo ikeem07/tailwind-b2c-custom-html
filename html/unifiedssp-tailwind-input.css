@@ -615,7 +615,7 @@
         }
     }
     .unified_container .row .panel-default{
-        padding:40px 30px;
+        /* padding:40px 30px; */
         margin-top:auto;
         margin-bottom:auto;
         height:100%;

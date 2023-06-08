@@ -1017,7 +1017,7 @@ input[type=email],input[type=password],input[type=text]{
 }
 
 .unified_container .row .panel-default{
-  padding:40px 30px;
+  /* padding:40px 30px; */
   margin-top:auto;
   margin-bottom:auto;
   height:100%;
@@ -1391,10 +1391,6 @@ input[type=email],input[type=password],input[type=text]{
 
 /* END - Microsoft generated styles via gulp */
 
-.p-\[0px\] {
-  padding: 0px;
-}
-
 .px-\[30px\] {
   padding-left: 30px;
   padding-right: 30px;
@@ -1426,10 +1422,6 @@ input[type=email],input[type=password],input[type=text]{
 } */
 
 @media (min-width: 640px) {
-  .sm\:p-\[0px\] {
-    padding: 0px;
-  }
-
   .sm\:py-\[40px\] {
     padding-top: 40px;
     padding-bottom: 40px;
